@@ -1,0 +1,37 @@
+﻿states/UT,Total number of cases,cases chargesheeted by police,cases with final reports by police,chargesheeting rate,cases convicted by court,cases acquitted/discharged by court,cases in which trails were completed,cases conviction rate,region type
+Andhra Pradesh,240,219,13,94.4,29,219,248,11.7,state
+Arunachal Pradesh,3,2,0,100.0,0,0,0,,state
+Assam,262,137,101,57.6,0,21,21,0.0,state
+Bihar,127,79,5,94.0,8,0,8,100.0,state
+Chhattisgarh,51,40,1,97.6,5,12,17,29.4,state
+Goa,55,69,4,94.5,1,7,8,12.5,state
+Gujarat,13,13,0,100.0,0,0,0,,state
+Haryana,34,24,8,75.0,1,1,2,50.0,state
+Himachal Pradesh,6,9,2,81.8,0,1,1,0.0,state
+Jammu & Kashmir,1,1,0,100.0,1,0,1,100.0,state
+Jharkhand,373,137,49,73.7,107,14,121,88.4,state
+Karnataka,27,14,0,100.0,0,7,7,0.0,state
+Kerala,105,43,8,84.3,1,10,11,9.1,state
+Madhya Pradesh,63,59,3,95.2,7,17,24,29.2,state
+Maharashtra,311,247,3,98.8,2,17,19,10.5,state
+Manipur,3,2,3,40.0,0,0,0,,state
+Meghalaya,24,14,0,100.0,0,0,0,,state
+Mizoram,2,0,0,,0,0,0,,state
+Nagaland,0,0,0,,0,0,0,,state
+Odisha,75,65,0,100.0,0,0,0,,state
+Punjab,17,10,4,71.4,2,1,3,66.7,state
+Rajasthan,86,71,10,87.7,0,0,0,,state
+Sikkim,1,0,0,,0,0,0,,state
+Tamil Nadu,8,9,1,90.0,1,11,12,8.3,state
+Telangana,242,301,1,99.7,1,45,46,2.2,state
+Tripura,2,1,0,100.0,0,0,0,,state
+Uttar Pradesh,35,30,3,90.9,22,0,22,100.0,state
+Uttarakhand,29,26,0,100.0,2,2,4,50.0,state
+West Bengal,172,231,128,64.3,12,98,110,10.9,state
+A & N Islands,0,0,0,0.0,0,0,0,0.0,union territory
+Chandigarh,0,0,0,0.0,0,0,0,0.0,union territory
+D&N Haveli,0,0,0,0.0,0,0,0,0.0,union territory
+Daman & Diu,0,0,0,0.0,0,0,0,0.0,union territory
+Delhi UT,98,57,2,96.6,0,2,2,0.0,union territory
+Lakshadweep,0,0,0,0.0,0,0,0,0.0,union territory
+Puducherry,0,0,0,0.0,0,0,0,0.0,union territory
