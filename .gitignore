@@ -1,0 +1,14 @@
+# Tableau temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
